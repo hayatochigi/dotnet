@@ -1,0 +1,16 @@
+C:\Users\tochigi.yusuke\source\repos\Producer_Consumer_dotnet5\Producer_Consumer_dotnet5\obj\Debug\net5.0\Producer_Consumer_dotnet5.csprojAssemblyReference.cache
+C:\Users\tochigi.yusuke\source\repos\Producer_Consumer_dotnet5\Producer_Consumer_dotnet5\obj\Debug\net5.0\Producer_Consumer_dotnet5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tochigi.yusuke\source\repos\Producer_Consumer_dotnet5\Producer_Consumer_dotnet5\obj\Debug\net5.0\Producer_Consumer_dotnet5.AssemblyInfoInputs.cache
+C:\Users\tochigi.yusuke\source\repos\Producer_Consumer_dotnet5\Producer_Consumer_dotnet5\obj\Debug\net5.0\Producer_Consumer_dotnet5.AssemblyInfo.cs
+C:\Users\tochigi.yusuke\source\repos\Producer_Consumer_dotnet5\Producer_Consumer_dotnet5\obj\Debug\net5.0\Producer_Consumer_dotnet5.csproj.CoreCompileInputs.cache
+C:\Users\tochigi.yusuke\source\repos\Producer_Consumer_dotnet5\Producer_Consumer_dotnet5\bin\Debug\net5.0\Producer_Consumer_dotnet5.exe
+C:\Users\tochigi.yusuke\source\repos\Producer_Consumer_dotnet5\Producer_Consumer_dotnet5\bin\Debug\net5.0\Producer_Consumer_dotnet5.deps.json
+C:\Users\tochigi.yusuke\source\repos\Producer_Consumer_dotnet5\Producer_Consumer_dotnet5\bin\Debug\net5.0\Producer_Consumer_dotnet5.runtimeconfig.json
+C:\Users\tochigi.yusuke\source\repos\Producer_Consumer_dotnet5\Producer_Consumer_dotnet5\bin\Debug\net5.0\Producer_Consumer_dotnet5.runtimeconfig.dev.json
+C:\Users\tochigi.yusuke\source\repos\Producer_Consumer_dotnet5\Producer_Consumer_dotnet5\bin\Debug\net5.0\Producer_Consumer_dotnet5.dll
+C:\Users\tochigi.yusuke\source\repos\Producer_Consumer_dotnet5\Producer_Consumer_dotnet5\bin\Debug\net5.0\ref\Producer_Consumer_dotnet5.dll
+C:\Users\tochigi.yusuke\source\repos\Producer_Consumer_dotnet5\Producer_Consumer_dotnet5\bin\Debug\net5.0\Producer_Consumer_dotnet5.pdb
+C:\Users\tochigi.yusuke\source\repos\Producer_Consumer_dotnet5\Producer_Consumer_dotnet5\obj\Debug\net5.0\Producer_Consumer_dotnet5.dll
+C:\Users\tochigi.yusuke\source\repos\Producer_Consumer_dotnet5\Producer_Consumer_dotnet5\obj\Debug\net5.0\ref\Producer_Consumer_dotnet5.dll
+C:\Users\tochigi.yusuke\source\repos\Producer_Consumer_dotnet5\Producer_Consumer_dotnet5\obj\Debug\net5.0\Producer_Consumer_dotnet5.pdb
+C:\Users\tochigi.yusuke\source\repos\Producer_Consumer_dotnet5\Producer_Consumer_dotnet5\obj\Debug\net5.0\Producer_Consumer_dotnet5.genruntimeconfig.cache
