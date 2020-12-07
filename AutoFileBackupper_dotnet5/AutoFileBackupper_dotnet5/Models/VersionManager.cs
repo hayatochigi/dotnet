@@ -1,34 +1,27 @@
 ﻿using System;
-using System.Linq;
-using System.Collections.Generic;
 using System.Text.RegularExpressions;
 
 namespace AutoFileBackupper_dotnet5.Models
 {
     internal class VersionManager
     {
-        internal static string GetVersionFormat()
-        {
-            return "\\d{1,}_\\d{1,}_\\d{1,}"; 
-        }
-
+        
         /// <summary>
         /// Convert Version string (ex, "1_2_3") to int array (ex, {1, 2, 3})
         /// </summary>
-        /// <param name="ver">Input version string "%d_%d_%d"</param>
+        /// <param name="file_name">Input version string "%d_%d_%d"</param>
         /// <returns>Converted version string to int[]</returns>
-        internal static IEnumerable<int> ToVerionInfoArray(string ver)
+        internal static string ToVerionInfoArray(string file_name)
         {
-            if (ver == "")
+            if (file_name == "")
             {
                 // Return default version info.
-                return new[] { 1, 0, 0 };
+                return "1_0_0";
             }
             else
             {
-
-                //return Array.ConvertAll(Regex.Split(ver, "_"), s => int.Parse(s));
-                return null;
+                // Search version string.
+                return Regex.Match(file_name, "\\d{1,}_\\d{1,}_\\d{1,}").Value;
             }
         }
     }
